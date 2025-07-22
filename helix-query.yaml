@@ -18,8 +18,8 @@ indices:
         selectFirst: img
         value: attribute(el, "src")
       title:
-        select: head > meta[name="og:title"]
+        select: head > meta[property="og:title"]
         value: attribute(el, "content")
       description:
-        select: head > meta[name="og:description"]
+        select: head > meta[property="og:description"]
         value: attribute(el, "content")
