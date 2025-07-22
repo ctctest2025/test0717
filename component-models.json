@@ -214,5 +214,17 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "pagelist",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
+      }
+    ]
   }
 ]
