@@ -2,8 +2,7 @@
   "mappings": [
     "/content/eds-test-site/:/",
     "/content/eds-test-site/configuration:/.helix/config.json",
-    "/content/eds-test-site/metadata:/metadata.json",
-    "/content/eds-test-site/query-index:/query-index.csv",
+    "/content/eds-test-site/metadata:/metadata.json"
   ],
   "includes": [
     "/content/eds-test-site/"
