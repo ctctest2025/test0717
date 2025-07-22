@@ -16,7 +16,7 @@ indices:
         value: attribute(el, "content")
       image:
         select: head > meta[property="og:image"]
-        value: attribute(el, "src")
+        value: attribute(el, "content")
       title:
         select: head > meta[property="og:title"]
         value: attribute(el, "content")
