@@ -214,13 +214,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "pagelist",
-    "fields": []
-  },
-  {
-    "id": "carousel",
-    "fields": []
   }
 ]
