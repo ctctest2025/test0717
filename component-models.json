@@ -217,14 +217,10 @@
   },
   {
     "id": "pagelist",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "parentPage",
-        "label": "ParentPage",
-        "value": ""
-      }
-    ]
+    "fields": []
+  },
+  {
+    "id": "carousel",
+    "fields": []
   }
 ]
