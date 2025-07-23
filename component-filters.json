@@ -16,8 +16,7 @@
       "cards",
       "columns",
       "fragment",
-      "pagelist",
-      "carousel"
+      "pagelist"
     ]
   },
   {
@@ -39,12 +38,6 @@
       "image",
       "button",
       "title"
-    ]
-  },
-  {
-    "id": "carousel",
-    "components": [
-      "hero"
     ]
   }
 ]
